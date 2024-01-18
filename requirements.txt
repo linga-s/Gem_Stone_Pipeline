@@ -2,4 +2,7 @@ pandas
 numpy
 flask
 ipykernel
+scikit-learn
+seaborn
+
 -e .
