@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Gem-stone
+Version: 0.0.1
+Author: Linga
+Author-email: lingasodana25@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
