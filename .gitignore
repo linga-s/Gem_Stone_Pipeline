@@ -3,3 +3,4 @@ build
 census_income.egg-info
 dist
 logs
+artifacts
